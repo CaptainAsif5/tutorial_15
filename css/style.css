@@ -1,0 +1,13 @@
+#name, #name1, #name2{
+    margin: 5px;
+    width: 300px;
+    height: 30px;
+    outline: black 2px solid;
+    background-color: rgba(145, 145, 145, 0.808);
+}
+
+#button{
+    margin-left: 5px;
+    width: 310px;
+    height: 30px;
+}
